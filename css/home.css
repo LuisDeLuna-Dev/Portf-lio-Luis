@@ -185,3 +185,9 @@ li{
         width: 40vh;
     }
 }
+@media(max-width:600px){
+    .sobremim-container img{
+        height: 12em;
+        width: auto;
+    }
+}
